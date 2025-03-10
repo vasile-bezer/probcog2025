@@ -13,4 +13,4 @@ Topics covered include:
 - Fitting Bayesian observer (and other) models to data;
 - Applications of Bayesian observer models to concrete examples and case studies, such as: cue combination, learning, motor control, "causal inference" in multisensory perception (the specific applications being covered may change depending on the year).
 
-- The course will use publicly available textbooks, complemented as needed with slides and lecture notes, plus Python notebooks for the coding parts. All study materials will be made available in the course Moodle area. Ma, Kording & Goldreich, "Bayesian models of perception and action", MIT Press 2022.
+The course will use publicly available textbooks, complemented as needed with slides and lecture notes, plus Python notebooks for the coding parts. All study materials will be made available in the course Moodle area. Ma, Kording & Goldreich, "Bayesian models of perception and action", MIT Press 2022.

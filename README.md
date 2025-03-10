@@ -1,4 +1,4 @@
-# probcog2025
+# Probabilistic Cognitive Modelling [DATA20047]
 
 The course focuses on how probabilistic (Bayesian) modelling provides a general framework to understand and explain a variety of phenomena in cognition, perception and action - a framework known as **the Bayesian brain**. The key concept is to model the brain as performing statistical inference.
 
